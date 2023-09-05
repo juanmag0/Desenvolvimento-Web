@@ -1,0 +1,76 @@
+body {
+  background-color: rgb(0, 0, 0);
+}
+
+header {
+  background-color: rgb(177, 163, 163);
+  padding: 30px;
+}
+
+.titulo-principal {
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.paragrafo-principal {
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
+
+.naruto {
+  background-color: rgb(235, 231, 231);
+  padding: 30px;
+  margin: 30px;
+  text-align: center;
+  border: 1px solid black;
+}
+
+.kimetsu {
+  background-color: rgb(177, 163, 163);
+  padding: 30px;
+  margin: 30px;
+  text-align: center;
+  border: 1px solid black;
+}
+
+.overlord {
+  background-color: rgb(235, 231, 231);
+  padding: 30px;
+  margin: 30px;
+  text-align: center;
+  border: 1px solid black;
+}
+
+.titulo-secundario {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin: 30px;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+.paragrafo-secundario {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+  margin-bottom: 30px;
+  text-align: justify;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+  border: 1px solid black;
+  display: inline-block;
+}
+
+footer {
+  background-color: rgb(177, 163, 163);
+  padding: 30px;
+}
+
+.paragrafo-rodape {
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
